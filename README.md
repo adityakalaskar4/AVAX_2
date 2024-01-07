@@ -3,8 +3,8 @@ This Solidity contract implements a basic ERC20 token named DegenToken. It also 
 
 ## OverView
 The contract extends the ERC20 and Ownable contracts from the OpenZeppelin library.
-It defines events, mappin## DegenToken Solidity Contract ##
-This Solidity contract implements a basic ERC20 token named DegenToken. It also includes additional functionalities for redeeming items, setting item prices, and listing available items.
+It defines events, mappin## DegenToken Solidity Contract 
+## This Solidity contract implements a basic ERC20 token named DegenToken. It also includes additional functionalities for redeeming items, setting item prices, and listing available items.
 
 ## OverView
 The contract extends the ERC20 and Ownable contracts from the OpenZeppelin library.
